@@ -1,0 +1,9 @@
+- A private modifier is a modifier that limits the access of attributes and methods to a class.
+    A private attribute or method cannot be accessed outside the classes in which they are declared.
+
+- A public modifier is a modifier which allows a class, attribute and method to be accessed everywhere, within
+    and outside the class.
+
+- A protected modifier applies only to class attributes. When an attribute is protected, it can only be accessed within
+    a subclass which has inherited it from the parent class.
+

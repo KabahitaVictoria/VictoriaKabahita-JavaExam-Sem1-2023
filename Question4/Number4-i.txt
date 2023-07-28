@@ -1,0 +1,2 @@
+- A class is a blueprint used for creating objects while an object is a combination of 
+    data and methods that manipulate that data. An object is an instance of a class.
